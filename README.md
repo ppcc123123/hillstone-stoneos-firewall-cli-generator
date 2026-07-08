@@ -5,6 +5,8 @@
 [![Version](https://img.shields.io/badge/Version-V5.5R12F2-green)](https://www.hillstonenet.com)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
+📖 English version: [README_EN.md](README_EN.md)
+
 ## 项目简介
 
 本仓库将 StoneOS（Hillstone 山石网科）防火墙官方命令行手册转化为结构化的配置 CLI 知识库。
@@ -45,7 +47,8 @@
 ```
 hillstone-stoneos-firewall-cli-generator/
 ├── SKILL.md              # Skill 入口（路由表 + 工作流 + 输出模板）
-├── README.md             # 本文件
+├── README.md             # 中文文档
+├── README_EN.md          # English documentation
 ├── scripts/
 │   ├── extract_pdf.py    # PDF 文本提取脚本（来源唯一真相）
 │   └── map.json          # 主题分组映射配置
