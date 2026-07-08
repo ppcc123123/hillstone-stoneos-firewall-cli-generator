@@ -1,0 +1,101 @@
+{
+  "source_pdf": "StoneOS-命令行手册-全系列-V5.5R12F2.pdf",
+  "themes": [
+    {
+      "key": "01-cli-basics",
+      "title": "CLI基础与防火墙基础配置",
+      "chapters": [3, 4],
+      "desc": "命令行接口/模式切换、接口配置、安全域(Zone)配置、基础防火墙搭建"
+    },
+    {
+      "key": "02-security-policy",
+      "title": "安全策略",
+      "chapters": [5],
+      "desc": "策略规则、源/目的安全域与地址、服务、行为(Permit/Deny)、ACL、Web重定向"
+    },
+    {
+      "key": "03-routing",
+      "title": "高级路由功能",
+      "chapters": [6],
+      "desc": "静态路由、OSPF、BGP、RIP、策略路由、ECMP等"
+    },
+    {
+      "key": "04-system-management",
+      "title": "系统管理",
+      "chapters": [7],
+      "desc": "设备管理、SNMP、NTP、日志、配置文件、用户与角色、License"
+    },
+    {
+      "key": "05-virtual-system",
+      "title": "虚拟系统",
+      "chapters": [8],
+      "desc": "VSYS 虚拟系统配置与资源分配"
+    },
+    {
+      "key": "06-ha",
+      "title": "高可靠性",
+      "chapters": [9],
+      "desc": "HA 双机热备、NSRP/A/S、会话同步"
+    },
+    {
+      "key": "07-ipv6",
+      "title": "IPv6",
+      "chapters": [10],
+      "desc": "IPv6 地址、邻居发现、IPv6 路由与安全策略"
+    },
+    {
+      "key": "08-auth",
+      "title": "用户认证",
+      "chapters": [11],
+      "desc": "本地用户、Radius/TACACS、LDAP、认证策略"
+    },
+    {
+      "key": "09-vpn",
+      "title": "VPN",
+      "chapters": [12],
+      "desc": "IPsec VPN、IKE、GRE、L2TP、SSL VPN"
+    },
+    {
+      "key": "10-ztna",
+      "title": "零信任网络访问(ZTNA)",
+      "chapters": [13],
+      "desc": "零信任代理、SDP、访问策略"
+    },
+    {
+      "key": "11-qos",
+      "title": "流量管理(QoS)",
+      "chapters": [14],
+      "desc": "带宽管理、流量整形、限速、优先级队列"
+    },
+    {
+      "key": "12-threat-protection",
+      "title": "威胁防护",
+      "chapters": [15],
+      "desc": "IPS、防病毒、 Anti-DDoS、Botnet、沙箱"
+    },
+    {
+      "key": "13-url-filtering",
+      "title": "数据安全与URL过滤",
+      "chapters": [16],
+      "desc": "URL过滤、数据过滤、文件过滤、DLP"
+    },
+    {
+      "key": "14-monitoring",
+      "title": "监控",
+      "chapters": [17],
+      "desc": "会话监控、流量监控、告警"
+    },
+    {
+      "key": "15-diagnostics",
+      "title": "分析诊断",
+      "chapters": [18],
+      "desc": "Ping/Traceroute、抓包、Debug、诊断命令"
+    },
+    {
+      "key": "16-show-commands",
+      "title": "常用Show命令",
+      "chapters": [19],
+      "desc": "查看配置与运行状态的常用 show 命令汇总"
+    }
+  ]
+}
